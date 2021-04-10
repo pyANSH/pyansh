@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
 
 
-**hkrobotics/hkrobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pyansh/pyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Hemant Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ayan Shrivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/hkrobotics" target="blank"><img src="https://img.shields.io/twitter/follow/hkrobotics?logo=twitter&style=for-the-badge" alt="hkrobotics" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayanshrivastav8" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="pyansh" /></a> </p>
 
 - 🔭 I’m currently working on [TRF Website](https://github.com/pyANSH/TRF-Website)
 
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://dev.to/pyansh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pyansh" height="30" width="40" /></a>
 <a href="https://twitter.com/ayanshrivastav8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pyansh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayan-shrivastava/ target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hkrobotics" height="30" width="40" /></a>
-<a href="https://instagram.com/hkrobotics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hkrobotics" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayan-shrivastava/ target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pyansh" height="30" width="40" /></a>
+<a href="instagram.com/error__.423/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pyansh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!--testing area-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyansh&show_icons=true&theme=dark&locale=en" alt="hkrobotics">
+  <img src="https://github-readme-stats.vercel.app/api?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh">
 </p>
 
 <p align="center">
