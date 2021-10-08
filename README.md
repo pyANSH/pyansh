@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **website Project**
 
-<!-- - 👨‍💻 All of my projects are available at [https://pyansh.github.io/PORTFOLIO/](https://pyansh.github.io/PORTFOLIO/) -->
+- 👨‍💻 All of my projects are available at [https://pyansh.github.io/ayan-shrivastava/](https://pyansh.github.io/ayan-shrivastava/)
 
 - 📫 How to reach me **ayanshrivastava2020@gmail.com**
 
