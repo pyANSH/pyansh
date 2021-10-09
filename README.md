@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/ayanshrivastav8" target="blank">
   <img src="https://img.shields.io/twitter/follow/ayanshrivastav8?logo=twitter&style=for-the-badge" alt="ayanshrivastav8" /></a> </p>
 
-- 🔭 I’m currently working on [trf-website](https://pyansh.github.io/TRF-Website/)
+- 🔭 I’m currently working on ReactJS app
 
 - 🌱 I’m currently learning **django**
 
