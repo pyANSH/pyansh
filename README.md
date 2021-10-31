@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pyansh&theme=dark" alt="pyansh" /></p>
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=pyansh&theme=xcode)](https://github.com/pyansh)" ></p>
