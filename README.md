@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ReactJS app
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **website Project**
 
