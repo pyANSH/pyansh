@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayan Shrivastava</h1>  
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ayanshrivastav8" target="blank">
+<p align="left"> <a href="https://twitter.com/ayanshrivastav8" target="blank"> 
   <img src="https://img.shields.io/twitter/follow/ayanshrivastav8?logo=twitter&style=for-the-badge" alt="ayanshrivastav8" /></a> </p>
 
 - 🔭 I’m currently working on ReactJS app
