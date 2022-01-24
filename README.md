@@ -14,21 +14,6 @@
  
 - 📫 How to reach me **ayanshrivastava2020@gmail.com**
 - 
-Some of my Project
- The-Royal-Flush(HTML, CSS, JS) 
-> https://the-royal-flush.github.io/TRF/
-
-ToDo-List (JS-Project) 
-> https://github.com/pyANSH/todo-list
-
- ICONS(Full-Stack) 
-> https://leo1104.github.io/ICONS/
-
-Simple-JS-Clock 
-> https://pyansh.github.io/JS-clock-project/
-
- Basic-TimeLine
-> https://pyansh.github.io/prototype-website/
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></p>
