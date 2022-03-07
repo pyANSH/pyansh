@@ -6,14 +6,13 @@
 
 - 🔭 I’m currently working on ReactJS app
 
-- 🌱 I’m currently learning **React native**
+<!-- - 🌱 I’m currently learning **** -->
 
-- 👯 I’m looking to collaborate on **website Project**
+<!-- - 👯 I’m looking to collaborate on **website Project** -->
 
-- 👨‍💻 All of my projects are available at [https://pyansh.github.io/ayan-shrivastava/](https://pyansh.github.io/ayan-shrivastava/)
+<!-- - 👨‍💻 All of my projects are available at [https://pyansh.github.io/ayan-shrivastava/](https://pyansh.github.io/ayan-shrivastava/) -->
  
 - 📫 How to reach me **ayanshrivastava2020@gmail.com**
-- 
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></p>
