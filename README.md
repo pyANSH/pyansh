@@ -6,11 +6,11 @@
 
 <!-- - 🔭 I’m currently working on ReactJS app -->
 
-<!-- - 🌱 I’m currently learning **** -->
+- 🌱 I’m currently learning Firebase
 
-<!-- - 👯 I’m looking to collaborate on **website Project** -->
+- 👯 I’m looking to collaborate on **website Project**
 
-<!-- - 👨‍💻 All of my projects are available at [https://pyansh.github.io/ayan-shrivastava/](https://pyansh.github.io/ayan-shrivastava/) -->
+- 👨‍💻 All of my projects are available at [https://pyansh.github.io/ayan-shrivastava/](https://pyansh.github.io/ayan-shrivastava/) 
  
 - 📫 How to reach me **ayanshrivastava2020@gmail.com**
 
