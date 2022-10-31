@@ -15,12 +15,10 @@
 - 📫 How to reach me **ayanshrivastava2020@gmail.com**
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pyansh&theme=dark" alt="pyansh" /></p>
-
-
 
 [![Ansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pyansh&theme=xcode)](https://github.com/pyansh)
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pyansh&theme=dark" alt="pyansh" /></p>
