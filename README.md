@@ -16,9 +16,8 @@
 
 <br>
 
-[![Ansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pyansh&theme=xcode)](https://github.com/pyansh)
+[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pyansh&bg_color=121212&color=ffffff&line=e5e5e5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pyansh&theme=dark" alt="pyansh" /></p>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></span>
+<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pyansh&theme=dark" alt="pyansh" /></span>
