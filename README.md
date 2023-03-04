@@ -18,6 +18,7 @@
 
 [![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pyansh&bg_color=121212&color=ffffff&line=e5e5e5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<div style="display:flex; justify-content:center;flex-wrap:wrap;">
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></span>
 <span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pyansh&theme=dark" alt="pyansh" /></span>
+</div>
