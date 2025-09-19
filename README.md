@@ -17,6 +17,6 @@
 <br>
 
 <div style="display:flex; justify-content:center;flex-wrap:wrap;">
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pyansh&show_icons=true&theme=dark&locale=en" alt="pyansh" /></span>
+
 <span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pyansh&theme=dark" alt="pyansh" /></span>
 </div>
